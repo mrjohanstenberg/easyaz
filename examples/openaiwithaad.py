@@ -1,9 +1,3 @@
-# easyaz
-Using Azure shouldn't be hard. easyaz makes it easier. 
-
-## Example
-
-```python
 import azure.identity
 import easyaz.openai
 
